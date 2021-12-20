@@ -1,0 +1,7 @@
+{
+  "editor.tokenColorCustomizations": {    "comments": "#229977"
+  },
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true 
+  }
+}
